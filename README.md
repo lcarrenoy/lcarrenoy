@@ -2,12 +2,12 @@
 
 
 - 👋 Hi, I’m @lcarrenoy
-  
+ - 
  -  Bachelor of Science in Industrial Engineer - UNI
  -  Languages: Português, English and Spanish
-
+ -
 - 👀 I’m interested in ...
-
+ -   
  -  Web Development (Javascript, HTML and CSS)
  -  Programming (R, Python and CSS)
  -  Databases (SQL)
