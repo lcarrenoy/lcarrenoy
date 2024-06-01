@@ -2,31 +2,16 @@
 
 
 - 👋 Hi, I’m @lcarrenoy
+  
+   Bachelor of Science in Industrial Engineer - UNI
+  Languages: Português, English and Spanish
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-lcarrenoy/lcarrenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Web Development (Javascript, HTML and CSS)
+ Programming (R, Python and CSS)
+ Databases (SQL)
+ Data visualization (Power BI, Tableau and Data Studio)
+ Machine Learning and Artificial Intelligence
+ Cloud Computing (AWS, Azure and GCP)
 
-28 yo, based in São Paulo/SP
-Bachelor of Science and Technology - Federal University of ABC (UFABC)
-Postgraduate Lato Sensu in Data Engineering - Pontifical Catholic University of Minas Gerais
-Data Engineer at Dell
-President at Data Girls
-Data Science & AI member at WoMakersCode
-Languages: Português, English, Español and Deutsch
-
-Interests
-
-Web Development (Django, Go, Javascript, HTML and CSS)
-Cloud Computing (AWS, Azure and GCP)
-Data Science and Data Engineering
-Databases (MySQL, PostgreSQL and Oracle DB)
-Hardware, robotics and medical devices
-Quantum Physics and Electromagnetism
