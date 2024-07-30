@@ -1,5 +1,3 @@
-![bg-masthead]
-
 
  
 ### Hi there, I'm [Luis Carreño](https://lcarrenoy.github.io) 👋
