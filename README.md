@@ -1,6 +1,5 @@
-![bg-masthead](https://github.com/lcarrenoy/lcarrenoy/assets/166766154/6685c273-05dc-4dab-9268-db07d81e43a9){width=40%}
+![bg-masthead](https://github.com/lcarrenoy/lcarrenoy/assets/166766154/6685c273-05dc-4dab-9268-db07d81e43a9)
 
-Fuente: https://www.iteramos.com/pregunta/89805/cambiar-el-tamano-de-la-imagen-en-markdown-en-gitlab
 
  
 ### Hi there, I'm [Luis Carreño](https://lcarrenoy.github.io) 👋
