@@ -1,4 +1,4 @@
-![bg-masthead](https://github.com/lcarrenoy/lcarrenoy/assets/166766154/6685c273-05dc-4dab-9268-db07d81e43a9){width='100px'}
+![bg-masthead](https://github.com/lcarrenoy/lcarrenoy/assets/166766154/6685c273-05dc-4dab-9268-db07d81e43a9){width='50px'}
 
  
 ### Hi there, I'm [Luis Carreño](https://lcarrenoy.github.io) 👋
