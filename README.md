@@ -4,6 +4,12 @@
 
 - Bachelor of Science in Industrial Engineer from [UNI](https://portal.uni.edu.pe/#1), Perú. 
 - Languages: Português, English and Spanish
+  
+### Applications
+
+- [FIFA 19 R Shiny App](https://ekrem-bayar.shinyapps.io/FifaDash/)
+- [2024 Posit Table Contest: Transfermarkt Contract Detector](https://github.com/EkremBayar/2024-Posit-Table-Contest)
+
 
 **I’m interested in**:
  -  Web Development (Javascript, HTML and CSS)
@@ -20,8 +26,4 @@
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
 
 
-### Applications
-
-- [FIFA 19 R Shiny App](https://ekrem-bayar.shinyapps.io/FifaDash/)
-- [2024 Posit Table Contest: Transfermarkt Contract Detector](https://github.com/EkremBayar/2024-Posit-Table-Contest)
 
