@@ -7,8 +7,8 @@
   
 ### Applications
 
-- [FIFA 19 R Shiny App](https://ekrem-bayar.shinyapps.io/FifaDash/)
-- [2024 Posit Table Contest: Transfermarkt Contract Detector](https://github.com/EkremBayar/2024-Posit-Table-Contest)
+- [     Shiny App](https://)
+- [    ](https://)
 
 
 **I’m interested in**:
