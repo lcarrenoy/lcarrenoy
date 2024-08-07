@@ -5,11 +5,6 @@
 - Bachelor of Science in Industrial Engineer from [UNI](https://portal.uni.edu.pe/#1), Perú. 
 - Languages: Português, English and Spanish
   
-### Applications
-
-- [     Shiny App](https://)
-- [    ](https://)
-
 
 **I’m interested in**:
  -  Web Development (Javascript, HTML and CSS)
