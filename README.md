@@ -12,6 +12,7 @@
  -  Databases (SQL)
  -  Machine Learning and Artificial Intelligence
  -  Data visualization (Power BI, Tableau and Data Studio)
+ -  Finance
   
 ## Skills:
 #### Languages programming and tools:
