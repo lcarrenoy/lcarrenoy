@@ -14,7 +14,7 @@
  -  Data visualization (Power BI, Tableau and Data Studio)
   
 ## Skills:
-#### Languages:
+#### Languages and tools:
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
