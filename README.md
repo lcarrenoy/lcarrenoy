@@ -29,7 +29,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
 ![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
-##🔧 Tools
+## 🔧 Tools
  - OpenAI API (tool)
  - Hugging Face (tool/platform)
  - Git (version control tool)
