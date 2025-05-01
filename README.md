@@ -2,7 +2,8 @@
  
 ### Hi there, I'm [Luis Carreño](https://lcarrenoy.github.io) 👋
 
-- Bachelor of Science in Industrial Engineer from [UNI](https://portal.uni.edu.pe/#1), Perú. 
+- Bachelor of Science in Industrial Engineer from [UNI](https://portal.uni.edu.pe/#1), Perú.
+- PADE in Operations and Logistics from [ESAN](https://www.esan.edu.pe/), Perú.
 - Languages: Português, English and Spanish
   
 
