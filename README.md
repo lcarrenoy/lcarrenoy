@@ -34,3 +34,5 @@
  - Hugging Face (tool/platform)
  - Git (version control tool)
  - LLaMA 3 (open-source model/tool)
+ - Snowflake (cloud data warehouse tool)
+ - Apache Airflow (workflow orchestration tool)
