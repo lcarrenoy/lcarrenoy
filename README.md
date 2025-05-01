@@ -36,3 +36,12 @@
  - LLaMA 3 (open-source model/tool)
  - Snowflake (cloud data warehouse tool)
  - Apache Airflow (workflow orchestration tool)
+
+## 🧱 Frameworks
+- scikit-learn (machine learning framework in Python)
+- PyTorch (deep learning framework in Python)
+- Tidyverse (data science framework in R)
+- XGBoost (gradient boosting framework)
+- Caret (machine learning framework in R)
+- Tidymodels (modeling framework in R, part of the Tidyverse ecosystem)
+- Rstanarm (Bayesian modeling framework in R using Stan)
