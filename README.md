@@ -42,13 +42,6 @@ Demand Planning | Inventory Optimization | Logistics Coordination | Production S
 🌍 Languages
 Native Spanish | English (B2) | Portuguese (B2)
 
-**I’m interested in**:
- -  Web Development (Javascript, HTML and CSS)
- -  Programming (R, Python and SQL)
- -  Databases (SQL)
- -  Machine Learning and Artificial Intelligence
- -  Data visualization (Power BI, Tableau and Data Studio)
- -  Finance
  
 
 ## 🔧 Tools
