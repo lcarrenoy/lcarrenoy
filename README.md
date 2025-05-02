@@ -15,30 +15,29 @@
 
 ### 💻 Technical Skills
 
+💻 Technical Skills
 🧑‍💻 Programming Languages:
-Python | SQL | PHP | C++ | HTML | CSS | JavaScript
+Python | SQL | PHP | C++ | HTML | CSS | JavaScript | Java | Scala | Julia
 
 ⚙️ Automation & Software Development:
 Power Apps | Power Automate | Make | Airtable | Bubble | Flutter
 
-🛠 Tools:
-Slack | Microsoft Teams | Excel | R | Python | Julia | Power BI | Tableau | Looker Studio | Google Cloud | Git | Snowflake | PostgreSQL | SQL Server | Apache Airflow | Spark | OpenAI API | Hugging Face | LLaMA 3
+🛠 Tools / Platforms:
+Slack | Microsoft Teams | Excel | Power BI | Tableau | Looker Studio | Google Cloud | Git | Snowflake | PostgreSQL | SQL Server | Apache Airflow | Spark | OpenAI API | Hugging Face | LLaMA 3 | FastAPI | DVC | MLflow | Kafka | KNIME | Microsoft Copilot | Google Cloud DataLab | Redshift | BigQuery | dbt
 
 🧱 Frameworks & Libraries:
 
-Python: pandas | scikit-learn | PyTorch | Transformers | XGBoost | dbt | Airflow DAGs | LightGBM
+Python: pandas | scikit-learn | PyTorch | Transformers | XGBoost | dbt | Airflow DAGs | FastAPI | MLflow
 
 R: Tidyverse | ggplot2 | Seaborn | purrr | broom | rstanarm | tidymodels | caret
 
-💻 Software & Platforms:
-Power BI Desktop | RStudio | Jupyter Notebook | DBeaver | Azure Data Studio | VS Code | Apache Airflow UI
+Java / Scala: Spring | Jakarta EE | Apache Spark
 
+💻 Software & Interfaces:
+Power BI Desktop | RStudio | Jupyter Notebook | DBeaver | Azure Data Studio | VS Code | Apache Airflow UI | Kafka UI | KNIME Desktop | IntelliJ | Eclipse | Google Cloud Console
 🚚 Supply Chain Management
-Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management
-
-📊 Financial Analysis
+Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management📊 Financial Analysis
 Budgeting | Forecasting | Variance Analysis | Financial Reporting
-
 
 🌍 Languages
 Native Spanish | English (B2) | Portuguese (B2)
