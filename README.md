@@ -35,6 +35,7 @@ Java / Scala: Spring | Jakarta EE | Apache Spark
 
 💻 Software & Interfaces:
 Power BI Desktop | RStudio | Jupyter Notebook | DBeaver | Azure Data Studio | VS Code | Apache Airflow UI | Kafka UI | KNIME Desktop | IntelliJ | Eclipse | Google Cloud Console
+
 🚚 Supply Chain Management
 Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management📊 Financial Analysis
 Budgeting | Forecasting | Variance Analysis | Financial Reporting
