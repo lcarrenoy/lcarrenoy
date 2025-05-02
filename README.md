@@ -13,6 +13,34 @@
 - Languages: Português, English and Spanish
   
 
+💻 Technical Skills
+🧑‍💻 Programming Languages:
+Python | SQL | PHP | C++ | HTML | CSS | JavaScript
+
+⚙️ Automation & Software Development:
+Power Apps | Power Automate | Make | Airtable | Bubble | Flutter
+
+🛠 Tools:
+Slack | Microsoft Teams | Excel | R | Python | Julia | Power BI | Tableau | Looker Studio | Google Cloud | Git | Snowflake | PostgreSQL | SQL Server | Apache Airflow | Spark | OpenAI API | Hugging Face | LLaMA 3
+
+🧱 Frameworks & Libraries:
+
+Python: pandas | scikit-learn | PyTorch | Transformers | XGBoost | dbt | Airflow DAGs | LightGBM
+
+R: Tidyverse | ggplot2 | Seaborn | purrr | broom | rstanarm | tidymodels | caret
+
+💻 Software & Platforms:
+Power BI Desktop | RStudio | Jupyter Notebook | DBeaver | Azure Data Studio | VS Code | Apache Airflow UI
+
+📊 Financial Analysis
+Budgeting | Forecasting | Variance Analysis | Financial Reporting
+
+🚚 Supply Chain Management
+Demand Planning | Inventory Optimization | Logistics Coordination | Production Scheduling | Supplier Management
+
+🌍 Languages
+Native Spanish | English (B2) | Portuguese (B2)
+
 **I’m interested in**:
  -  Web Development (Javascript, HTML and CSS)
  -  Programming (R, Python and SQL)
