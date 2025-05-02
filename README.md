@@ -15,8 +15,6 @@
 
 ### 💻 Technical Skills
 
-💻 Technical Skills
-
 🧑‍💻 Programming Languages:
 Python | SQL | PHP | C++ | HTML | CSS | JavaScript | Java | Scala | Julia
 
