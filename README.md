@@ -33,11 +33,12 @@ R: Tidyverse | ggplot2 | Seaborn | purrr | broom | rstanarm | tidymodels | caret
 💻 Software & Platforms:
 Power BI Desktop | RStudio | Jupyter Notebook | DBeaver | Azure Data Studio | VS Code | Apache Airflow UI
 
+🚚 Supply Chain Management
+Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management
+
 📊 Financial Analysis
 Budgeting | Forecasting | Variance Analysis | Financial Reporting
 
-🚚 Supply Chain Management
-Demand Planning | Inventory Optimization | Logistics Coordination | Production Scheduling | Supplier Management
 
 🌍 Languages
 Native Spanish | English (B2) | Portuguese (B2)
