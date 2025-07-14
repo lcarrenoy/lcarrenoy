@@ -1,11 +1,29 @@
 
- 
-### Hi there, I'm [Luis Carreño](https://lcarrenoy.github.io) 👋
+ > *"Every Week I try new ideas on Building in public."*
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lcarrenoy" alt="lcarrenoy" /> </p>
+
+ ## About Me
+```typescript
+const Luis Carreño = {
+  studies: "Industrial Engenieer",
+  focus: "Full Stack Development",
+  passion: "Create tech solutions"
+};
+```
+## Data Anlyst
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+## BI
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### Hi there, I'm [Luis Carreño](https://lcarrenoy.github.io) 👋
+
+
+
+
+
 
 
 - Bachelor of Science in Industrial Engineer from [UNI](https://portal.uni.edu.pe/#1), Perú.
@@ -61,31 +79,16 @@ Native Spanish | English (B2) | Portuguese (B2)
 - Tidymodels (modeling framework in R, part of the Tidyverse ecosystem)
 - Rstanarm (Bayesian modeling framework in R using Stan)
 
-> *"Every Week I try new ideas on Building in public."*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwitholga" alt="buildwitholga" /> </p>
 
-## About Me
-```typescript
-const Olga = {
-  role: "Computer Science @Vienna",
-  focus: "Full Stack Development",
-  passion: "Contribute Open Source and build tiny startups"
-};
-```
 
-## Tech Stack
-### Frontend & UI
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMSAxMmE5IDkgMCAxIDEtNi4yMTktOC41NjIiLz48L3N2Zz4=&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+
+
+
+
+
 
 ### Database & Backend-as-a-Service
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
