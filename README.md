@@ -33,7 +33,7 @@ const Luis Carreño = {
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ## AI Engineer
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -129,7 +129,7 @@ Native Spanish | English (B2) | Portuguese (B2)
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,bun,docker,npm,pnpm,redis,sentry,vitest"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,bun,docker,npm,pnpm,redis,sentry,vitest,cursor"/>
 </p>
 
 
