@@ -112,7 +112,7 @@ Native Spanish | English (B2) | Portuguese (B2)
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,nodejs,postgres,py,tailwind,vscode,visualstudio,vercel,supabase,sass,powershell,mysql,md,firebase,express,docker,npm,pnpm,cursor"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,nodejs,postgres,py,tailwind,vscode,visualstudio,vercel,supabase,powershell,mysql,express,docker,npm,cursor"/>
 </p>
 
 
