@@ -13,13 +13,20 @@ const Luis Carreño = {
 };
 ```
 ## Data Anlyst
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=r,python,mysql,vscode,bigquery"/>
+</p>
+
 ![Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google-BigQuery-4285F4?logo=googlebigquery&logoColor=white)
 
 ## BI
+## Data Anlyst
+<h3>BI:</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=r,python,mysql,sql,excel,colab"/>
+</p>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
