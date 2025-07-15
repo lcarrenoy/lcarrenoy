@@ -106,22 +106,13 @@ Native Spanish | English (B2) | Portuguese (B2)
 
 
 
-
-
-
-
-
-
-
-
-
 </div>
 
 
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,bun,docker,npm,pnpm,redis,sentry,vitest,cursor"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,nodejs,postgres,py,tailwind,vscode,visualstudio,vercel,supabase,sass,powershell,mysql,md,firebase,express,docker,npm,pnpm,cursor"/>
 </p>
 
 
