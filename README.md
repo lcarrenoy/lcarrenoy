@@ -35,14 +35,13 @@ const Luis Carreño = {
 ## Data Scientist
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=r,python,git,github,vscode,postgres,kafka"/>
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,github,git,vscode,kafka"/>
+
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ## AI Engineer
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 
