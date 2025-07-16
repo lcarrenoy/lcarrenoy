@@ -26,10 +26,16 @@ const Luis Carreño = {
 ![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## Data Engineer
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,git,vscode,postgres,kafka"/>
+</p>
+
 ![Snowflake](https://img.shields.io/badge/GitHub-snowflake--mcp-blue)
 
 ## Data Scientist
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=r,python,git,github,vscode,postgres,kafka"/>
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
