@@ -21,15 +21,9 @@ const Luis Carreño = {
 ![BigQuery](https://img.shields.io/badge/Google-BigQuery-4285F4?logo=googlebigquery&logoColor=white)
 
 ## BI
-## Data Anlyst
-<h3>BI:</h3>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=r,python,mysql,sql,excel,colab"/>
-</p>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-
 
 ## Data Engineer
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
