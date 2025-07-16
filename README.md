@@ -14,20 +14,19 @@ const Luis Carreño = {
 ```
 ## Data Anlyst
 <p align="left">
-<img src="https://skillicons.dev/icons?i=r,python,mysql,vscode,bigquery"/>
+<img src="https://skillicons.dev/icons?i=r,python,mysql,gcp,vscode,d3"/>
 </p>
 
-![Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google-BigQuery-4285F4?logo=googlebigquery&logoColor=white)
 
 ## BI
+<img src="https://skillicons.dev/icons?i=gcp"/>
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## Data Engineer
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,git,vscode,postgres,kafka"/>
+<img src="https://skillicons.dev/icons?i=github,git,powershell,vscode,postgres,kafka"/>
 </p>
 
 ![Snowflake](https://img.shields.io/badge/GitHub-snowflake--mcp-blue)
@@ -35,13 +34,14 @@ const Luis Carreño = {
 ## Data Scientist
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,github,git,vscode,kafka"/>
+<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,github,git,powershell,vscode,kafka"/>
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ## AI Engineer
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=py,github,git,vscode"/>
+ 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 
@@ -49,6 +49,9 @@ const Luis Carreño = {
 ![N8N](https://img.shields.io/badge/Website-n8n.io-blue)
 
 ## Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma"/>
+ 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
