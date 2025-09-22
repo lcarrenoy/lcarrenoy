@@ -12,50 +12,10 @@ const Luis Carreño = {
   passion: "Create tech solutions"
 };
 ```
-## Data Anlyst
+###  Languages & Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=r,python,mysql,gcp,vscode,d3"/>
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,nodejs,nextjs,react,express,tailwind,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma,vscode,visualstudio,cursor"/>
 </p>
-
-
-## BI
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%231877F2.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-
-## Data Engineer
-<p align="left">
-<img src="https://skillicons.dev/icons?i=github,git,powershell,vscode,postgres,kafka"/>
-</p>
-
-![Snowflake](https://img.shields.io/badge/GitHub-snowflake--mcp-blue)
-
-## Data Scientist
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,github,git,powershell,vscode,kafka"/>
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-## AI Engineer
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,github,git,vscode"/>
- 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
-
-## Automotion
-![N8N](https://img.shields.io/badge/Website-n8n.io-blue)
-
-## Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma"/>
- 
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 
 ### 💻 Studies
@@ -115,14 +75,6 @@ Native Spanish | English (B2) | Portuguese (B2)
 
 
 </div>
-
-
-<h3>My Languages and Tools:</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,nodejs,postgres,py,tailwind,vscode,visualstudio,vercel,supabase,powershell,mysql,express,docker,npm,cursor"/>
-</p>
-
 
 
 <!--END_SECTION:waka-->
