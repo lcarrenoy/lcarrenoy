@@ -14,7 +14,7 @@ const Luis Carreño = {
 ```
 ###  Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,nodejs,nextjs,react,express,tailwind,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma,vscode,visualstudio,cursor"/>
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,nodejs,react,tailwind,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma,vscode,visualstudio"/>
 </p>
 
 
