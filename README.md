@@ -8,13 +8,13 @@
 ```typescript
 const Luis Carreño = {
   studies: "Industrial Engenieer",
-  focus: "Full Stack Development",
+  focus: "Data Full Stack",
   passion: "Create tech solutions"
 };
 ```
 ###  Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma"/>
 </p>
 
 
