@@ -20,11 +20,6 @@ const LuisCarreño = {
   <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,react,mysql,postgres,gcp,azure,docker,kubernetes,github,git,vscode,figma,firebase,fastapi,kafka,d3,vercel,npm,powershell"/>
 </p>
 
-###  Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,html,css,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma"/>
-</p>
-
 
 ### 💻 Studies
 
