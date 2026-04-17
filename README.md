@@ -14,7 +14,11 @@ const LuisCarreño = {
   passion: "Build tech products that solve real problems"
 };
 ```
+### 🛠️ Languages & Frameworks
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,react,mysql,postgres,gcp,azure,docker,kubernetes,github,git,vscode,figma,firebase,fastapi,kafka,d3,vercel,npm,powershell"/>
+</p>
 
 ###  Languages & Frameworks
 <p align="left">
