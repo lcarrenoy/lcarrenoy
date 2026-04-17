@@ -4,14 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lcarrenoy" alt="lcarrenoy" /> </p>
 
- ## About Me
+## 🧠 About Me
+
 ```typescript
-const Luis Carreño = {
-  studies: "Industrial Engenieer",
-  focus: "Data Full Stack",
-  passion: "Create tech solutions"
+const LuisCarreño = {
+  role:    "Industrial Engineer · Full Stack Data · EdTech Founder",
+  focus:   "Finanzas · Supply Chain · Agentic AI · SaaS",
+  stack:   ["Python", "SQL", "React", "LangChain", "BigQuery", "Power BI"],
+  passion: "Build tech products that solve real problems"
 };
 ```
+
+
 ###  Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css,r,python,mysql,gcp,vscode,d3,github,git,powershell,vscode,postgres,kafka,docker,vercel,npm,figma"/>
@@ -20,6 +24,7 @@ const Luis Carreño = {
 
 ### 💻 Studies
 
+- Candidate a **MSc Financial Engineering** — WorldQuant University
 - Bachelor of Science in Industrial Engineer from [UNI](https://portal.uni.edu.pe/#1), Perú.
 - PADE in Operations and Logistics from [ESAN](https://www.esan.edu.pe/), Perú.
 - Languages: Português, English and Spanish
