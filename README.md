@@ -20,8 +20,7 @@ const LuisCarreño = {
   focus:    ["Agentic AI", "LLM Systems", "Data Engineering", "Fintech"],
   stack:    ["LangGraph", "Claude API", "MCP Protocol", "FastAPI",
              "PyTorch", "dbt", "Kafka", "Terraform", "Kubernetes"],
-  building: "AI agents that solve real financial & operational problems",
-  score:    "CV 9.8/10"
+  building: "AI agents that solve real financial & operational problems"
 };
 ```
 
