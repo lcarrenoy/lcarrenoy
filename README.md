@@ -47,7 +47,7 @@ const LuisCarreño = {
 ### 🤖 01 · IA & Agents
 | Project | Stack | Status |
 |---|---|---|
-| [AI Core System](https://github.com/lcarrenoy/ai-core-system) | LangGraph · MCP · Claude/Gemini/Ollama · RAG | 🔨 WIP |
+| [AI Core System](https://github.com/lcarrenoy/ai-core-system) | LangGraph · MCP · Claude/Gemini/Ollama · RAG | ✅ Live  |
 | [Local AI Stack & Agent Infra](https://github.com/lcarrenoy/local-ai-stack) | OpenClaw · Claude Opus · Telegram · nomic-embed · n8n | ✅ Live |
 | [Local LLM & Private RAG](https://github.com/lcarrenoy/local-llm-rag) | Ollama · LM Studio · nomic-embed · No CUDA | ✅ Live |
 | [Multi-Agent Finance Orchestrator](https://github.com/lcarrenoy/multi-agent-finance-orchestrator) | LangGraph · CrewAI · AutoGen · MCP · LangSmith | ✅ |
