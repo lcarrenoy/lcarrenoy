@@ -29,7 +29,7 @@ const LuisCarreño = {
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,ts,fastapi,docker,kubernetes,postgres,kafka,gcp,azure,aws,terraform,github,git,vscode,powershell,react,firebase,grafana,nextjs,supabase,redis,vercel,nodejs,flask,django,bash,linux,mysql,mongodb,elasticsearch,nginx,ansible,jenkins,gitlab,bitbucket,notion,figma"/>
+  <img src="https://skillicons.dev/icons?i=python,r,ts,fastapi,docker,kubernetes,postgres,kafka,gcp,azure,aws,terraform,github,git,vscode,powershell,react,firebase,grafana,nextjs,supabase,redis,vercel,nodejs,flask,django,bash,linux,mysql,mongodb,nginx,ansible,jenkins,gitlab,bitbucket"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white"/>
