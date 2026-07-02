@@ -19,7 +19,7 @@ const LuisCarreño = {
   education: "MSc Financial Engineering (WorldQuant University, 2026-2028)",
   focus:    ["Agentic AI", "LLM Systems", "Data Engineering", "Fintech"],
   stack:    ["LangGraph", "Claude API", "MCP Protocol", "FastAPI",
-             "PyTorch", "dbt", "Kafka", "Terraform", "Kubernetes"],
+             "PyTorch", "dbt", "Kafka", "Terraform", "Kubernetes","Next.js", "Supabase", "Stripe", "Claude Code" ],
   building: "AI agents that solve real financial & operational problems"
 };
 ```
@@ -29,16 +29,17 @@ const LuisCarreño = {
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,ts,fastapi,docker,kubernetes,postgres,kafka,gcp,azure,aws,terraform,github,git,vscode,powershell,react,firebase,grafana"/>
+  <img src="https://skillicons.dev/icons?i=python,r,ts,fastapi,docker,kubernetes,postgres,kafka,gcp,azure,aws,terraform,github,git,vscode,powershell,react,firebase,grafana,nextjs,supabase,redis,vercel"/>
 </p>
 
 **AI & Agents:** LangGraph · LangChain · CrewAI · AutoGen · MCP Protocol · OpenClaw · RAG · Claude API · Gemini API · Ollama · LM Studio · RAGAS · DeepEval · LangFuse · LangSmith
 
 **Data & ML:** PyTorch · LightGBM · XGBoost · Prophet · Scikit-learn · MLflow · Evidently AI · SHAP · Optuna · dbt · Great Expectations
 
-**Engineering:** FastAPI · Kafka · Delta Lake · PySpark · Apache Airflow · Terraform · Kubernetes · Docker · CI/CD · n8n · Quarto
+**Engineering:** FastAPI · Kafka · Delta Lake · PySpark · Apache Airflow · Terraform · Kubernetes · Docker · CI/CD · n8n · Quarto · Next.js · TypeScript · Supabase · Stripe · Claude Code
 
 **BI & Finance:** Power BI · Tableau · Looker Studio · BigQuery · Snowflake · SQL
+**Cloud:** AWS (Lambda · ECS · Bedrock · S3) · GCP · Azure Databricks · Vercel · Supabase
 
 ---
 
