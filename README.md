@@ -39,6 +39,7 @@ const LuisCarreño = {
 **Engineering:** FastAPI · Kafka · Delta Lake · PySpark · Apache Airflow · Terraform · Kubernetes · Docker · CI/CD · n8n · Quarto · Next.js · TypeScript · Supabase · Stripe · Claude Code
 
 **BI & Finance:** Power BI · Tableau · Looker Studio · BigQuery · Snowflake · SQL
+
 **Cloud:** AWS (Lambda · ECS · Bedrock · S3) · GCP · Azure Databricks · Vercel · Supabase
 
 ---
