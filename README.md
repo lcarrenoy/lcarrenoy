@@ -29,7 +29,20 @@ const LuisCarreño = {
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,ts,fastapi,docker,kubernetes,postgres,kafka,gcp,azure,aws,terraform,github,git,vscode,powershell,react,firebase,grafana,nextjs,supabase,redis,vercel"/>
+  <img src="https://skillicons.dev/icons?i=python,r,ts,fastapi,docker,kubernetes,postgres,kafka,gcp,azure,aws,terraform,github,git,vscode,powershell,react,firebase,grafana,nextjs,supabase,redis,vercel,nodejs,flask,django,bash,linux,mysql,mongodb,elasticsearch,nginx,ansible,jenkins,gitlab,bitbucket,notion,figma"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
 
 **AI & Agents:** LangGraph · LangChain · CrewAI · AutoGen · MCP Protocol · OpenClaw · RAG · Claude API · Gemini API · Ollama · LM Studio · RAGAS · DeepEval · LangFuse · LangSmith
